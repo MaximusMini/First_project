@@ -1,7 +1,8 @@
 ## `Links to repositories`
 
 [GitHub](https://github.com/apovyshev/DevOps_github.git)
-#GitHub
+
+**#GitHub**
 
 [GitLab](https://gitlab.com/apovyshev/devops_gitlab.git)
 
