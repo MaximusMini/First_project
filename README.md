@@ -18,20 +18,3 @@
 
 **integration_events_MK**  
 **https://sa-itacademy-by.slack.com/messages/CKVFH9VS6/apps/A676ADMV5/**
-
-
-
-
-
-
-
-
-
-
-`Test project`
-=============================
-
-> Пробный проект
-
-INSTALLATION
-------------
