@@ -1,10 +1,10 @@
 ## `Links to repositories`
 
-![alt-текст](https://image.flaticon.com/icons/png/128/25/25231.png "GitHub") [GitHub](https://github.com/trenonby)
+![alt-текст](https://i.ibb.co/72VSyLr/Git-Hub-90.png "GitHub") **[GitHub](https://github.com/trenonby)**
 
 **https://github.com/trenonby**
 
-![alt-текст](https://i.ibb.co/LRN1f6x/Git-Lab-90.png "GitLab") [GitHub](https://gitlab.com/trenonby)
+![alt-текст](https://i.ibb.co/LRN1f6x/Git-Lab-90.png "GitLab") **[GitHub](https://gitlab.com/trenonby)**
 
 **https://gitlab.com/trenonby**
 
