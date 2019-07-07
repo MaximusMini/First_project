@@ -1,8 +1,8 @@
 ## `Links to repositories`
 
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1") [GitHub](https://github.com/trenonby)
+![alt-текст](https://image.flaticon.com/icons/png/128/25/25231.png "GitHub") [GitHub](https://github.com/trenonby)
 
-** https://github.com/trenonby**
+**https://github.com/trenonby**
 
 [GitLab](https://gitlab.com/apovyshev/devops_gitlab.git)
 
