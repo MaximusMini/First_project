@@ -2,7 +2,7 @@
 
 [GitHub](https://github.com/apovyshev/DevOps_github.git)
 
-**#GitHub**
+**# https://github.com/trenonby**
 
 [GitLab](https://gitlab.com/apovyshev/devops_gitlab.git)
 
