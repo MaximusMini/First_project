@@ -12,7 +12,7 @@
 
 **https://bitbucket.org/trenonby/**
 
-## Slack channel
+## `Slack channel`
 
 ![alt-текст](https://i.ibb.co/PDFBKWT/Slack-90.png "Slack") **[Slack](https://sa-itacademy-by.slack.com/messages/CKVFH9VS6/apps/A676ADMV5/)**
 
