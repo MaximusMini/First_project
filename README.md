@@ -16,7 +16,7 @@
 
 ![alt-текст](https://i.ibb.co/PDFBKWT/Slack-90.png "Slack") **[Slack](https://sa-itacademy-by.slack.com/messages/CKVFH9VS6/apps/A676ADMV5/)**
 
-[integration_events_MK]
+**integration_events_MK**  
 **https://sa-itacademy-by.slack.com/messages/CKVFH9VS6/apps/A676ADMV5/**
 
 
