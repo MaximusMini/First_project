@@ -4,21 +4,21 @@
 
 **https://github.com/trenonby**
 
-![alt-текст](https://i.ibb.co/LRN1f6x/Git-Lab-90.png "GitLab") **[GitHub](https://gitlab.com/trenonby)**
+![alt-текст](https://i.ibb.co/LRN1f6x/Git-Lab-90.png "GitLab") **[GitLab](https://gitlab.com/trenonby)**
 
 **https://gitlab.com/trenonby**
 
+![alt-текст](https://i.ibb.co/72S6h9F/Bitbucket-90.jpg "Bitbucket") **[Bitbucket](https://bitbucket.org/trenonby)**
 
-
-
-[GitLab](https://gitlab.com/apovyshev/devops_gitlab.git)
-
-[Bitbusket](https://apovyshev@bitbucket.org/apovyshev/devops_bitbucket.git)
-
+**https://bitbucket.org/trenonby/**
 
 ## Slack channel
 
-[integration_events](https://sa-itacademy-by.slack.com/messages/CKQQW2VH6/)
+![alt-текст](https://i.ibb.co/PDFBKWT/Slack-90.png "Slack") **[Slack](https://sa-itacademy-by.slack.com/messages/CKVFH9VS6/apps/A676ADMV5/)**
+
+[integration_events_MK]
+**https://sa-itacademy-by.slack.com/messages/CKVFH9VS6/apps/A676ADMV5/**
+
 
 
 
