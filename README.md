@@ -1,5 +1,40 @@
 ## `Ansible.Run`
 
+## `Docker.Landing`
+
+**Dockerfile**
+
+```
+	FROM alpine:latest
+	RUN apk add --update
+	RUN echo "**** install Python ****"
+	RUN apk add --no-cache python3
+	RUN echo "**** Python version ****"
+	RUN python3 --version
+	RUN echo "**** COPY APP ****"
+	COPY ./app_python /home/app_python
+	RUN echo "**** set EXPOSE ****"
+	EXPOSE 8000
+	WORKDIR /home/app_python
+	RUN echo "**** run Python ****"
+	CMD python3 -m http.server --cgi
+```
+
+**APP PYTHON**
+
+```
+hello.py
+--------
+
+#!/usr/bin/python
+
+print ("Content-type: text/html \n")
+print("<h1>Hello World!</h1>")
+```
+
+
+
+
 **Unlock Jenkins**
 
 ## Inventory file - hosts.yaml
