@@ -131,7 +131,7 @@ Successfully built d24b676ced1c
 Successfully tagged alpine_python_1:latest
 ```
 
-** Docker images**
+**Docker images**
 
 ```
 docker images
@@ -157,6 +157,14 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 9276044ac503        alpine_python_1     "/bin/sh -c 'pytho..."   About a minute ago   Up About a minute   0.0.0.0:8000->8000/tcp affectionate_euler
 
 ```
+
+**192.168.1.100:8000/cgi-bin/env_var.py**
+
+![alt-текст](https://i.ibb.co/Ln9KvGx/env-par-py.jpg "env_var.py")
+
+**192.168.1.100:8000/cgi-bin/hello.py**
+
+![alt-текст](https://i.ibb.co/sm6mrzQ/hello-py.jpg "hello.py")
 
 **Add image to docker hub**
 
@@ -192,6 +200,32 @@ latest: digest: sha256:08607b31226f3810cfcf2d6d80bc44157124fb938372f1703623d4fbb
 ```
 https://cloud.docker.com/repository/docker/trenon/alpine_python_1
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
